@@ -1,0 +1,30 @@
+a{
+    color: white;
+    text-decoration: none;
+}
+h1{
+    text-transform: capitalize;
+    text-align: center;
+    color: red;
+}
+h5{
+    text-align: center;
+    padding-top: 80px;
+}
+.containers{
+    height: 582px;
+    width: 100%;
+    color: white;
+    background-color: #000;
+}
+.footer{
+    height: 100px;
+    width: 100%;
+    background-color: #0d6efd;
+
+    h5{
+        color: white;
+        text-align: center;
+        padding-top: 25px;
+    }
+}

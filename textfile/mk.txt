@@ -1,0 +1,1 @@
+ new write file form node js write fileadded new things for append file 
